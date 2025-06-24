@@ -1,0 +1,12 @@
+[project]
+name = "uv-cc2-sine-maker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.1",
+    "pathlib>=1.0.1",
+    "pyside6>=6.9.1",
+    "screeninfo>=0.8.1",
+]
